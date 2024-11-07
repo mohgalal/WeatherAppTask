@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeazerApp</string>
+    <string name="tomorrow">Tomorrow</string>
+    <string name="today">Today</string>
+</resources>
